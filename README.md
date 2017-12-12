@@ -15,3 +15,11 @@ The following packages added:
 * [spl-utils](https://aur.archlinux.org/packages/spl-utils), provides Solaris Porting Layer kernel module support files.
 * [zfs-dkms](https://aur.archlinux.org/packages/zfs-dkms), provides kernel modules for ZFS (dkms).
 * [zfs-utils](https://aur.archlinux.org/packages/zfs-utils), provides support files for ZFS kernel modules.
+
+Remember you (fusion809) have to provide your own .pkg.tar.xz files for spl-* and zfs-* files from the AUR packages and move them to customrepo, run:
+
+```bash
+repo-add customrepo.db.tar.gz *.xz
+```
+
+from this directory. Then copy these files to airootfs/etc, as you will probably want them on the system post-install as well.
