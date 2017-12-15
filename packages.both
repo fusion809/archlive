@@ -1,5 +1,7 @@
 arch-install-scripts
+b43-fwcutter
 btrfs-progs
+clonezilla
 crda
 darkhttpd
 ddrescue
@@ -36,6 +38,7 @@ ntfs-3g
 ntp
 openconnect
 openssh
+openvpn
 partclone
 parted
 partimage
@@ -62,7 +65,3 @@ xl2tpd
 zd1211-firmware
 linux-headers
 broadcom-wl-dkms
-spl-utils
-spl-dkms
-zfs-utils
-zfs-dkms
