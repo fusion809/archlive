@@ -44,11 +44,9 @@ ppp
 pptpclient
 refind-efi
 rp-pppoe
-rsync
 sdparm
 sg3_utils
 smartmontools
-speedtouch
 tcpdump
 testdisk
 usb_modeswitch
@@ -63,3 +61,4 @@ zd1211-firmware
 linux-headers
 broadcom-wl-dkms
 links
+powerpill
