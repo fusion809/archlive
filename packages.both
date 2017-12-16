@@ -1,7 +1,6 @@
 arch-install-scripts
 b43-fwcutter
 btrfs-progs
-clonezilla
 crda
 darkhttpd
 ddrescue
@@ -38,7 +37,6 @@ ntfs-3g
 ntp
 openconnect
 openssh
-openvpn
 partclone
 parted
 partimage
@@ -51,7 +49,6 @@ sdparm
 sg3_utils
 smartmontools
 speedtouch
-sudo
 tcpdump
 testdisk
 usb_modeswitch
@@ -65,3 +62,4 @@ xl2tpd
 zd1211-firmware
 linux-headers
 broadcom-wl-dkms
+links
